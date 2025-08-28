@@ -1,9 +1,7 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Anushka%20Chakraborty&textBg=false&animation=blinking&section=header&desc=Machine%20Learning%20|%20Generative%20AI%20|%20Computer%20Vision%20|%20Applied%20Statistics](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Anushka%20Chakraborty&textBg=false&section=header&desc=Machine%20Learning%20|%20Generative%20AI%20|%20Computer%20Vision%20|%20Applied%20Statistics)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Anushka%20Chakraborty&desc=AI%20/ML%20|%20Generative%20AI%20|%20Computer%20Vision%20|%20Predictive%20Modeling%20|%20Applied%20Statistics" />
 </p>
-
-
 
 ---
 
@@ -29,15 +27,15 @@
 
 ## 📝 About Me  
 
-🎓 **Education**  
+**🎓 Education**  
 - M.Sc. Data Science — *Chennai Mathematical Institute*  
 - B.Sc. Statistics — *Kalyani Mahavidyalaya*  
 
-💼 **Experience**  
-- 🧪 *AlgoLabs* → Generative AI for defect image synthesis  
-- 🌊 *IIRS, ISRO* → FFASAR Processing and Multivariate Water Surface Elevation forecasting 
+**💼 Experience**  
+- 🧪 *AlgoLabs*: Generative AI for defect image synthesis  
+- 🌊 *IIRS, ISRO*: FFASAR Processing & Multivariate Water Surface Elevation Forecasting  
 
-🔬 **Research Interests**  
+**🔬 Research Interests**  
 Artificial Intelligence • Machine Learning • Generative Models • Computer Vision • Predictive Modeling • Remote Sensing  
 
 ---
@@ -51,30 +49,22 @@ Artificial Intelligence • Machine Learning • Generative Models • Computer 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)  
 
----
-
-### 🔹 Machine Learning / Deep Learning  
+### 🔹 Machine Learning & Deep Learning  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FECC00?style=for-the-badge&logo=huggingface&logoColor=black)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 
----
-
 ### 🔹 Generative & Time Series Modeling  
 `GANs` • `VAEs` • `Diffusion Models` • `Stable Diffusion`  
 `ARIMA` • `SARIMA` • `LSTM` • `NARX` • `DeepESN` • `Markov Chains`  
-
----
 
 ### 🔹 Visualization  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=plotly&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-0E77B2?style=for-the-badge&logo=seaborn&logoColor=white)  
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
 ![Shiny](https://img.shields.io/badge/Shiny-R-blue?style=for-the-badge&logo=r&logoColor=white)  
-
----
 
 ### 🔹 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -88,5 +78,3 @@ Artificial Intelligence • Machine Learning • Generative Models • Computer 
 - 📚 Publish impactful ML/AI research  
 - 🌍 Collaborate on interdisciplinary projects  
 - 🚀 Advance work in Generative AI & Computer Vision  
-
----
