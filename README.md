@@ -1,7 +1,7 @@
 <!-- Header Banner -->
-<p align="center">
+[<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Anushka%20Chakraborty&textBg=false&animation=blinking&section=header&desc=Machine%20Learning%20|%20Generative%20AI%20|%20Computer%20Vision%20|%20Applied%20Statistics" />
-</p>
+</p>](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Anushka%20Chakraborty&textBg=false&section=header&desc=Machine%20Learning%20|%20Generative%20AI%20|%20Computer%20Vision%20|%20Applied%20Statistics)
 
 ---
 <p align="center">
