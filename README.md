@@ -6,57 +6,49 @@
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/anushka-chakraborty-5a9444213/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Anu589" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="mailto:anushka.chakraborty589@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/Anushka_589" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  </a>
+  <a href="https://discord.com/users/anushka_5890" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Anushka__5890-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
+
 
 ---
 
 ## 📝 About Me  
 
-**Name:** Anushka Chakraborty  
-**Location:** Chennai, India  
-**Current Role:** M.Sc. Data Science Student @ Chennai Mathematical Institute  
+- 👩‍🎓 **M.Sc. Data Science @ CMI (2024–2026)**  
+- 📊 **B.Sc. Statistics (Hons.) @ Kalyani Mahavidyalaya (2020–2023)**  
 
-**Education:**  
-- M.Sc. Data Science @ Chennai Mathematical Institute (2024–2026)  
-- B.Sc. Statistics (Hons.) @ Kalyani Mahavidyalaya (2020–2023)  
+### 🔎 Fields of Interest  
+`Artificial Intelligence` • `Machine Learning` • `Generative Models` • `Computer Vision` • `Predictive Modeling` • `Remote Sensing`  
 
-**Fields of Interest:**  
-- Artificial Intelligence & Machine Learning  
-- Generative Models (GANs, VAEs, Diffusion, Stable DIffusion)  
-- Computer Vision  
-- Predictive Modeling & Applied Statistics (Time Series, Predictive Analysis, Baysian Statistics)
-- Remote Sensing 
+### 💼 Experience  
+- 🧪 AlgoLabs → *Generative AI for defect image synthesis*  
+- 🌊 IIRS, ISRO → *Water Surface Elevation forecasting & satellite data analysis*  
+- 🧩 Projects → *Clustering, Autoencoders, Churn Prediction*  
 
-**Technical Background:**  
-- Intern @ AlgoLabs → Generative AI for defect image synthesis  
-- Intern @ IIRS, ISRO → AI/ML for Water Surface Elevation forecasting & satellite data analysis  
-- Projects in Clustering, Autoencoders, and Churn Prediction  
+### ⚙️ Skills  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FECC00?style=for-the-badge&logo=huggingface&logoColor=black)  
 
-**Skills:**  
-- Languages → Python, R, C/C++, SQL  
-- Frameworks → TensorFlow, Keras, HuggingFace, scikit-learn  
-- Generative Models → GANs, VAEs, Diffusion Models, Stable Diffusion  
-- Time Series → ARIMA, SARIMA, LSTM, NARX, DeepESN, Markov Chains, Martingales 
-- Visualization → Matplotlib, Seaborn, Plotly, Shiny  
-
-**Currently Learning:**  
-- Advanced Deep Learning Architectures  
-- Multi View Geometry
-
-**Goals (2025):**  
-- Contribute to impactful ML/AI research  
-- Collaborate on interdisciplinary projects  
-- Publish work in applied ML/AI  
-
-**Hobbies:** Exploring AI research papers • Cinema • Creative Writing • Travel  
+### 🎯 Goals (2025)  
+- 📚 Publish impactful ML/AI research  
+- 🌍 Collaborate on interdisciplinary projects  
+- 🚀 Push boundaries in Generative AI & Computer Vision  
 
 ----
 
