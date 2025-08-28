@@ -22,18 +22,17 @@
   </a>
 </p>
 
-
-
 ---
 
 ## 📝 About Me  
 
-- 👩‍🎓 **M.Sc. Data Science**  
-- 📊 **B.Sc. Statistics **  
+🎓 **Education:** M.Sc. Data Science (Chennai Mathematical Institute, 2024–26) • B.Sc. Statistics (Kalyani Mahavidyalaya, 2020–23)  
+💼 **Experience:**  
+- 🧪 *AlgoLabs* → Generative AI for defect image synthesis  
+- 🌊 *IIRS, ISRO* → Water Surface Elevation forecasting & satellite data analysis  
+🔬 **Interests:** AI/ML • Generative Models • Computer Vision • Predictive Modeling • Remote Sensing  
 
-### 💼 Experience  
-- 🧪 AlgoLabs → *Generative AI for defect image synthesis*  
-- 🌊 IIRS, ISRO → *Water Surface Elevation forecasting & satellite data analysis*   
+---
 
 ### ⚙️ Skills & Tools  
 
@@ -74,46 +73,41 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
+---
 
 ### 🎯 Goals (2025)  
 - 📚 Publish impactful ML/AI research  
 - 🌍 Collaborate on interdisciplinary projects  
 - 🚀 Push boundaries in Generative AI & Computer Vision  
 
-----
+---
+
 ## 📂 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/Anu589/YourRepo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu589&repo=YourRepo1&theme=radical&hide_border=true" />
+  <a href="https://github.com/Anu589/Repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu589&repo=Repo1&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/Anu589/YourRepo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu589&repo=YourRepo2&theme=radical&hide_border=true" />
+  <a href="https://github.com/Anu589/Repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu589&repo=Repo2&theme=radical&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Anu589/YourRepo3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu589&repo=YourRepo3&theme=radical&hide_border=true" />
+  <a href="https://github.com/Anu589/Repo3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu589&repo=Repo3&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/Anu589/YourRepo4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu589&repo=YourRepo4&theme=radical&hide_border=true" />
+  <a href="https://github.com/Anu589/Repo4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu589&repo=Repo4&theme=radical&hide_border=true" />
   </a>
 </p>
+
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=Anu589&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  
-  <!-- Most Used Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu589&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
-
----
-
