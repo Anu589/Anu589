@@ -63,55 +63,13 @@
 ## 🛠️ Tools & Tech  
 
 <p align="center">
-  <!-- Languages -->
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/><br>Python
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/><br>R
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/><br>C
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/><br>C++
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/><br>SQL
-  </div>
+  
+| Python | R | C | C++ | SQL | PyTorch | TensorFlow | Keras | OpenCV | HuggingFace | Matplotlib | Seaborn | Plotly |
+|--------|---|---|-----|-----|---------|------------|-------|--------|-------------|------------|---------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/> | <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40"/> |
+
 </p>
 
-<p align="center">
-  <!-- ML/DL Frameworks -->
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/><br>PyTorch
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/><br>TensorFlow
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras"/><br>Keras
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/><br>OpenCV
-  </div>
-  <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" height="40" alt="HuggingFace"/><br>HuggingFace
-  </div>
-</p>
-
-<p align="center">
-  <!-- Visualization -->
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/><br>Matplotlib
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn"/><br>Seaborn
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly"/><br>Plotly
-  </div>
-</p>
 
 ---
 
